@@ -1,12 +1,10 @@
-# Akash Kumar&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Developer.gif" width="30px">
+# Hey&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Hi.gif" width="30px"> I'm Akash Kumar&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Developer.gif" width="50px">
 
-<img src="Assests/Hi.gif">
+---
 
-<br />
-
-I am a 3rd yr undergraduate from [IEM](https://iem.edu.in/) kolkata, who has keen interest in technologies💻 and development.
+I am a 3rd yr undergraduate from [IEM](https://iem.edu.in/) kolkata, who has keen interest in technologies💻 and development<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Rocket.gif" width="20px">.
 <br/>
-Full Stack Develpor(in progress)|| ML Enthusiast
+Full Stack Developer(in progress) || Ml Enthusiast
 <br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
@@ -15,8 +13,8 @@ Full Stack Develpor(in progress)|| ML Enthusiast
 
 - 👨🏽‍💻 I’m currently learning MERN Stack
 - 💬 Ask me about anything, I am happy to help
-- 👨🏽‍💼 in Competitive Programming competitions
-- Open Source Contributor
+- 👨🏽‍💼 Actively participate in Competitive Programming competitions
+- 👨🏻‍💻  Open Source Contributor
 - 📫 How to reach me: aksh.iem22@gmail.com
 <!-- - 📝[Resume](https://drive.google.com/file/d/1-3GN8xBrtTP9qxXOHu1gk9iQvD0nbhGI/view?usp=sharing) -->
 
