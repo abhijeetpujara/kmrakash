@@ -1,6 +1,6 @@
-# Akash Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# Akash Kumar&nbsp;<img src="https://github.com/kmrakash/kmrakash/blob/master/Assets/Developer.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<img src="Assests/Hi.gif">
 
 <br />
 
